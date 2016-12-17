@@ -1,0 +1,12 @@
+
+bin/
+
+# Eclipse Core
+.project
+.settings
+
+# java external library
+libs/
+
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
