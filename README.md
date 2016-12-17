@@ -1,8 +1,7 @@
 
-# A Console OOP Tic-Tac-Toe with Artificial Intelligence
+# Tic-Tac-Toe
 
-## Problem
-Make a Tic Tac Toe game that never loses. 
+A Console OOP based Tic Tac Toe game with Artificial Intelligence that never loses. 
 
 ## Instructions
 
