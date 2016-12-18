@@ -1,7 +1,17 @@
 
 # Tic-Tac-Toe
 
-A Console OOP based Tic Tac Toe game with Artificial Intelligence that never loses. Here, I use Minimax Algorithm to determine the best move for the AI player so that it never loses, either it win or there will be a tie. For a complete discussion about minimax algorithm please take a look at <a href="http://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-3-tic-tac-toe-ai-finding-optimal-move/">here</a>
+A Console OOP based Tic Tac Toe game with Artificial Intelligence that never loses. Here, I use Minimax Algorithm to determine the best move for the AI player so that it never loses, either it win or there will be a tie. 
+
+For a complete discussion about minimax algorithm please take a look at--
+
+<a href="http://neverstopbuilding.com/minimax">Tic Tac Toe: Understanding The Minimax Algorithm</a>
+
+<a href="http://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-3-tic-tac-toe-ai-finding-optimal-move/">Minimax Algorithm in Game Theory | Set 3 (Tic-Tac-Toe AI – Finding optimal move)</a>
+
+For a better understanding about the OO design of Tic-Tac-Toe
+
+<a href="http://www.ntu.edu.sg/home/ehchua/programming/java/JavaGame_TicTacToe.html">Case Study on Tic-Tac-Toe</a>
 
 ## Instructions
 
