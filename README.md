@@ -5,8 +5,8 @@ A Console OOP based Tic Tac Toe game with Artificial Intelligence that never los
 
 For a complete discussion about minimax algorithm please take a look at--
 
+<a href="https://www.youtube.com/watch?v=6ELUvkSkCts">Minimax Algorithm</a>
 <a href="http://neverstopbuilding.com/minimax">Tic Tac Toe: Understanding The Minimax Algorithm</a>
-
 <a href="http://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-3-tic-tac-toe-ai-finding-optimal-move/">Minimax Algorithm in Game Theory | Set 3 (Tic-Tac-Toe AI – Finding optimal move)</a>
 
 For a better understanding about the OO design of Tic-Tac-Toe
